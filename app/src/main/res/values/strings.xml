@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kotlin Meet UI</string>
+    <string name="helloworld">HelloWorld</string>
+    <string name="btntake">btnTake</string>
+    <string name="zero">0</string>
+</resources>
